@@ -1,0 +1,166 @@
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/obj/Debug/net6.0/AddressAPI.csproj.AssemblyReference.cache
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/obj/Debug/net6.0/AddressAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/obj/Debug/net6.0/AddressAPI.AssemblyInfoInputs.cache
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/obj/Debug/net6.0/AddressAPI.AssemblyInfo.cs
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/obj/Debug/net6.0/AddressAPI.csproj.CoreCompileInputs.cache
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/obj/Debug/net6.0/AddressAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/bin/Debug/net6.0/appsettings.json
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/bin/Debug/net6.0/AddressAPI
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/bin/Debug/net6.0/AddressAPI.deps.json
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/bin/Debug/net6.0/AddressAPI.runtimeconfig.json
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/bin/Debug/net6.0/AddressAPI.dll
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/bin/Debug/net6.0/AddressAPI.pdb
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/bin/Debug/net6.0/DnsClient.dll
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/bin/Debug/net6.0/MongoDB.Bson.dll
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/bin/Debug/net6.0/MongoDB.Driver.dll
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/bin/Debug/net6.0/MongoDB.Driver.Core.dll
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/bin/Debug/net6.0/MongoDB.Libmongocrypt.dll
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/bin/Debug/net6.0/SharpCompress.dll
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/bin/Debug/net6.0/runtimes/linux/native/libsnappy64.so
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/bin/Debug/net6.0/runtimes/linux/native/libzstd.so
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/bin/Debug/net6.0/runtimes/osx/native/libsnappy64.dylib
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/bin/Debug/net6.0/runtimes/osx/native/libzstd.dylib
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/bin/Debug/net6.0/runtimes/win/native/libzstd.dll
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/bin/Debug/net6.0/runtimes/win/native/snappy32.dll
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/bin/Debug/net6.0/runtimes/win/native/snappy64.dll
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/bin/Debug/net6.0/runtimes/linux/native/libmongocrypt.so
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/bin/Debug/net6.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/bin/Debug/net6.0/runtimes/win/native/mongocrypt.dll
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/obj/Debug/net6.0/staticwebassets/msbuild.AddressAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.AddressAPI.props
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AddressAPI.props
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AddressAPI.props
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/obj/Debug/net6.0/scopedcss/bundle/AddressAPI.styles.css
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/obj/Debug/net6.0/AddressAPI.csproj.CopyComplete
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/obj/Debug/net6.0/AddressAPI.dll
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/obj/Debug/net6.0/refint/AddressAPI.dll
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/obj/Debug/net6.0/AddressAPI.pdb
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/obj/Debug/net6.0/AddressAPI.genruntimeconfig.cache
+/Users/aykhanallahverdizade/Projects/MoviesApi/MoviesAPI/obj/Debug/net6.0/ref/AddressAPI.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/bin/Debug/net6.0/appsettings.json
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/bin/Debug/net6.0/AddressAPI
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/bin/Debug/net6.0/AddressAPI.deps.json
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/bin/Debug/net6.0/AddressAPI.runtimeconfig.json
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/bin/Debug/net6.0/AddressAPI.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/bin/Debug/net6.0/AddressAPI.pdb
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/bin/Debug/net6.0/DnsClient.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/bin/Debug/net6.0/MongoDB.Bson.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/bin/Debug/net6.0/MongoDB.Driver.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/bin/Debug/net6.0/MongoDB.Driver.Core.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/bin/Debug/net6.0/MongoDB.Libmongocrypt.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/bin/Debug/net6.0/SharpCompress.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/bin/Debug/net6.0/runtimes/linux/native/libsnappy64.so
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/bin/Debug/net6.0/runtimes/linux/native/libzstd.so
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/bin/Debug/net6.0/runtimes/osx/native/libsnappy64.dylib
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/bin/Debug/net6.0/runtimes/osx/native/libzstd.dylib
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/bin/Debug/net6.0/runtimes/win/native/libzstd.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/bin/Debug/net6.0/runtimes/win/native/snappy32.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/bin/Debug/net6.0/runtimes/win/native/snappy64.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/bin/Debug/net6.0/runtimes/linux/native/libmongocrypt.so
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/bin/Debug/net6.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/bin/Debug/net6.0/runtimes/win/native/mongocrypt.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/obj/Debug/net6.0/AddressAPI.csproj.AssemblyReference.cache
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/obj/Debug/net6.0/AddressAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/obj/Debug/net6.0/AddressAPI.AssemblyInfoInputs.cache
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/obj/Debug/net6.0/AddressAPI.AssemblyInfo.cs
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/obj/Debug/net6.0/AddressAPI.csproj.CoreCompileInputs.cache
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/obj/Debug/net6.0/AddressAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/obj/Debug/net6.0/staticwebassets/msbuild.AddressAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.AddressAPI.props
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AddressAPI.props
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AddressAPI.props
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/obj/Debug/net6.0/scopedcss/bundle/AddressAPI.styles.css
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/obj/Debug/net6.0/AddressAPI.csproj.CopyComplete
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/obj/Debug/net6.0/AddressAPI.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/obj/Debug/net6.0/refint/AddressAPI.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/obj/Debug/net6.0/AddressAPI.pdb
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/obj/Debug/net6.0/AddressAPI.genruntimeconfig.cache
+/Users/aykhanallahverdizade/Desktop/AddressApi/AddressAPI/obj/Debug/net6.0/ref/AddressAPI.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/bin/Debug/net6.0/appsettings.json
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/bin/Debug/net6.0/AddressAPI
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/bin/Debug/net6.0/AddressAPI.deps.json
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/bin/Debug/net6.0/AddressAPI.runtimeconfig.json
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/bin/Debug/net6.0/AddressAPI.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/bin/Debug/net6.0/AddressAPI.pdb
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/bin/Debug/net6.0/DnsClient.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/bin/Debug/net6.0/MongoDB.Bson.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/bin/Debug/net6.0/MongoDB.Driver.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/bin/Debug/net6.0/MongoDB.Driver.Core.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/bin/Debug/net6.0/MongoDB.Libmongocrypt.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/bin/Debug/net6.0/SharpCompress.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/bin/Debug/net6.0/runtimes/linux/native/libmongocrypt.so
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/bin/Debug/net6.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/bin/Debug/net6.0/runtimes/win/native/mongocrypt.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/obj/Debug/net6.0/AddressAPI.csproj.AssemblyReference.cache
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/obj/Debug/net6.0/AddressAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/obj/Debug/net6.0/AddressAPI.AssemblyInfoInputs.cache
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/obj/Debug/net6.0/AddressAPI.AssemblyInfo.cs
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/obj/Debug/net6.0/AddressAPI.csproj.CoreCompileInputs.cache
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/obj/Debug/net6.0/AddressAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/obj/Debug/net6.0/staticwebassets/msbuild.AddressAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.AddressAPI.props
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AddressAPI.props
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AddressAPI.props
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/obj/Debug/net6.0/scopedcss/bundle/AddressAPI.styles.css
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/obj/Debug/net6.0/AddressAPI.csproj.CopyComplete
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/obj/Debug/net6.0/AddressAPI.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/obj/Debug/net6.0/refint/AddressAPI.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/obj/Debug/net6.0/AddressAPI.pdb
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/obj/Debug/net6.0/AddressAPI.genruntimeconfig.cache
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/obj/Debug/net6.0/ref/AddressAPI.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/bin/Debug/net6.0/AWSSDK.Core.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/bin/Debug/net6.0/AWSSDK.SecurityToken.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/bin/Debug/net6.0/Snappier.dll
+/Users/aykhanallahverdizade/Desktop/AddressApi 2/AddressAPI/bin/Debug/net6.0/ZstdSharp.dll
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/bin/Debug/net6.0/appsettings.json
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/bin/Debug/net6.0/AddressAPI
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/bin/Debug/net6.0/AddressAPI.deps.json
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/bin/Debug/net6.0/AddressAPI.runtimeconfig.json
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/bin/Debug/net6.0/AddressAPI.dll
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/bin/Debug/net6.0/AddressAPI.pdb
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/bin/Debug/net6.0/AWSSDK.Core.dll
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/bin/Debug/net6.0/AWSSDK.SecurityToken.dll
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/bin/Debug/net6.0/DnsClient.dll
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/bin/Debug/net6.0/MongoDB.Bson.dll
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/bin/Debug/net6.0/MongoDB.Driver.dll
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/bin/Debug/net6.0/MongoDB.Driver.Core.dll
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/bin/Debug/net6.0/MongoDB.Libmongocrypt.dll
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/bin/Debug/net6.0/SharpCompress.dll
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/bin/Debug/net6.0/Snappier.dll
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/bin/Debug/net6.0/ZstdSharp.dll
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/bin/Debug/net6.0/runtimes/linux/native/libmongocrypt.so
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/bin/Debug/net6.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/bin/Debug/net6.0/runtimes/win/native/mongocrypt.dll
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/obj/Debug/net6.0/AddressAPI.csproj.AssemblyReference.cache
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/obj/Debug/net6.0/AddressAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/obj/Debug/net6.0/AddressAPI.AssemblyInfoInputs.cache
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/obj/Debug/net6.0/AddressAPI.AssemblyInfo.cs
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/obj/Debug/net6.0/AddressAPI.csproj.CoreCompileInputs.cache
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/obj/Debug/net6.0/AddressAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/obj/Debug/net6.0/staticwebassets/msbuild.AddressAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.AddressAPI.props
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AddressAPI.props
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AddressAPI.props
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/obj/Debug/net6.0/scopedcss/bundle/AddressAPI.styles.css
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/obj/Debug/net6.0/AddressAPI.csproj.CopyComplete
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/obj/Debug/net6.0/AddressAPI.dll
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/obj/Debug/net6.0/refint/AddressAPI.dll
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/obj/Debug/net6.0/AddressAPI.pdb
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/obj/Debug/net6.0/AddressAPI.genruntimeconfig.cache
+/Users/filizsalnur/Downloads/AddressApi 2/AddressAPI/obj/Debug/net6.0/ref/AddressAPI.dll

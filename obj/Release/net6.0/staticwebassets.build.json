@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "Z2pZfsIaZxB3W0stzjSg+Izx1uAt5zUhdvQ24nuFFbc=",
+  "Source": "AddressAPI",
+  "BasePath": "_content/AddressAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/scopedcss/bundle/AddressAPI.styles.css",
+      "SourceId": "AddressAPI",
+      "SourceType": "Computed",
+      "ContentRoot": "/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/scopedcss/bundle/",
+      "BasePath": "_content/AddressAPI",
+      "RelativePath": "AddressAPI.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/scopedcss/bundle/AddressAPI.styles.css"
+    },
+    {
+      "Identity": "/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/scopedcss/projectbundle/AddressAPI.bundle.scp.css",
+      "SourceId": "AddressAPI",
+      "SourceType": "Computed",
+      "ContentRoot": "/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/scopedcss/projectbundle/",
+      "BasePath": "_content/AddressAPI",
+      "RelativePath": "AddressAPI.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/scopedcss/projectbundle/AddressAPI.bundle.scp.css"
+    }
+  ]
+}

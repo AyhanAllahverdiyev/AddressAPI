@@ -1,0 +1,102 @@
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/appsettings.Development.json
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/appsettings.json
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/cookbook_backend
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/cookbook_backend.deps.json
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/cookbook_backend.runtimeconfig.json
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/cookbook_backend.dll
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/cookbook_backend.pdb
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/AWSSDK.Core.dll
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/AWSSDK.SecurityToken.dll
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/DnsClient.dll
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/MongoDB.Bson.dll
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/MongoDB.Driver.dll
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/MongoDB.Driver.Core.dll
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/MongoDB.Libmongocrypt.dll
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/SharpCompress.dll
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/Snappier.dll
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/ZstdSharp.dll
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/runtimes/linux/native/libmongocrypt.so
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/runtimes/win/native/mongocrypt.dll
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/cookbook_backend.csproj.AssemblyReference.cache
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/cookbook_backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/cookbook_backend.AssemblyInfoInputs.cache
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/cookbook_backend.AssemblyInfo.cs
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/cookbook_backend.csproj.CoreCompileInputs.cache
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/cookbook_backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/staticwebassets/msbuild.cookbook_backend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/staticwebassets/msbuild.build.cookbook_backend.props
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/staticwebassets/msbuild.buildMultiTargeting.cookbook_backend.props
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/staticwebassets/msbuild.buildTransitive.cookbook_backend.props
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/staticwebassets.pack.json
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/staticwebassets.build.json
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/staticwebassets.development.json
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/scopedcss/bundle/cookbook_backend.styles.css
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/cookbook_backend.csproj.CopyComplete
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/cookbook_backend.dll
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/refint/cookbook_backend.dll
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/cookbook_backend.pdb
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/cookbook_backend.genruntimeconfig.cache
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/ref/cookbook_backend.dll
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/cookbook_backend.staticwebassets.runtime.json
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/cookbook_backend.RazorAssemblyInfo.cache
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/cookbook_backend.RazorAssemblyInfo.cs
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/scopedcss/projectbundle/cookbook_backend.bundle.scp.css
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/Microsoft.OpenApi.dll
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/obj/Release/net6.0/cookbook_backend.MvcApplicationPartsAssemblyInfo.cs
+/Users/filizsalnur/Documents/BLM4531/cookbook_backend/cookbook_backend/bin/Release/net6.0/BCrypt.Net.dll
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/appsettings.Development.json
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/appsettings.json
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/cookbook_backend.staticwebassets.runtime.json
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/cookbook_backend
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/cookbook_backend.deps.json
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/cookbook_backend.runtimeconfig.json
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/cookbook_backend.dll
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/cookbook_backend.pdb
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/AWSSDK.Core.dll
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/AWSSDK.SecurityToken.dll
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/BCrypt.Net.dll
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/DnsClient.dll
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/Microsoft.OpenApi.dll
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/MongoDB.Bson.dll
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/MongoDB.Driver.dll
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/MongoDB.Driver.Core.dll
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/MongoDB.Libmongocrypt.dll
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/SharpCompress.dll
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/Snappier.dll
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/ZstdSharp.dll
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/runtimes/linux/native/libmongocrypt.so
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/runtimes/osx/native/libmongocrypt.dylib
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/bin/Release/net6.0/runtimes/win/native/mongocrypt.dll
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/cookbook_backend.csproj.AssemblyReference.cache
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/cookbook_backend.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/cookbook_backend.AssemblyInfoInputs.cache
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/cookbook_backend.AssemblyInfo.cs
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/cookbook_backend.csproj.CoreCompileInputs.cache
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/cookbook_backend.MvcApplicationPartsAssemblyInfo.cs
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/cookbook_backend.MvcApplicationPartsAssemblyInfo.cache
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/cookbook_backend.RazorAssemblyInfo.cache
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/cookbook_backend.RazorAssemblyInfo.cs
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/staticwebassets/msbuild.cookbook_backend.Microsoft.AspNetCore.StaticWebAssets.props
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/staticwebassets/msbuild.build.cookbook_backend.props
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/staticwebassets/msbuild.buildMultiTargeting.cookbook_backend.props
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/staticwebassets/msbuild.buildTransitive.cookbook_backend.props
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/staticwebassets.pack.json
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/staticwebassets.build.json
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/staticwebassets.development.json
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/scopedcss/bundle/cookbook_backend.styles.css
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/scopedcss/projectbundle/cookbook_backend.bundle.scp.css
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/cookbook_backend.csproj.CopyComplete
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/cookbook_backend.dll
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/refint/cookbook_backend.dll
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/cookbook_backend.pdb
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/cookbook_backend.genruntimeconfig.cache
+/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/ref/cookbook_backend.dll

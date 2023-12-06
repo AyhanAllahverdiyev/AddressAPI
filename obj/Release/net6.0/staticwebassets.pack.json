@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/Release/net6.0/scopedcss/projectbundle/AddressAPI.bundle.scp.css",
+      "PackagePath": "staticwebassets/AddressAPI.bundle.scp.css"
+    },
+    {
+      "Id": "obj/Release/net6.0/staticwebassets/msbuild.AddressAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net6.0/staticwebassets/msbuild.build.AddressAPI.props",
+      "PackagePath": "build\\AddressAPI.props"
+    },
+    {
+      "Id": "obj/Release/net6.0/staticwebassets/msbuild.buildMultiTargeting.AddressAPI.props",
+      "PackagePath": "buildMultiTargeting\\AddressAPI.props"
+    },
+    {
+      "Id": "obj/Release/net6.0/staticwebassets/msbuild.buildTransitive.AddressAPI.props",
+      "PackagePath": "buildTransitive\\AddressAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

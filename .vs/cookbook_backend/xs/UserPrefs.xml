@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{65D4172D-C944-4206-9999-C358FD0E0E8F}|MoviesAPI">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.cookbook__backend PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/DatabaseSettings.cs">
+    <Files>
+      <File FileName="Program.cs" Line="2" Column="18" />
+      <File FileName="appsettings.json" Line="10" Column="77" />
+      <File FileName="Data/Recipe.cs" Line="14" Column="1" />
+      <File FileName="Service/UserService.cs" Line="10" Column="6" />
+      <File FileName="Service/RecipeService.cs" Line="8" Column="2" />
+      <File FileName="Pages/Index.cshtml" Line="17" Column="9" />
+      <File FileName="Data/DatabaseSettings.cs" Line="9" Column="1" />
+      <File FileName="Data/User.cs" Line="3" Column="34" />
+      <File FileName="Pages/Login.cshtml" Line="2" Column="19" />
+      <File FileName="Pages/Login.cshtml.cs" Line="13" Column="1" />
+      <File FileName="Pages/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Pages/_ViewImports.cshtml" Line="1" Column="19" />
+      <File FileName="Pages/Error.cshtml" Line="24" Column="56" />
+      <File FileName="Pages/Logout.cshtml" Line="7" Column="1" />
+      <File FileName="Pages/Register.cshtml" Line="21" Column="1" />
+      <File FileName="Pages/Shared/_Layout.cshtml" Line="51" Column="38" />
+      <File FileName="Properties/launchSettings.json" Line="10" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cookbook_backend" expanded="True">
+            <Node name="cookbook_backend" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="DatabaseSettings.cs" selected="True" />
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="Login.cshtml" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Service" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+</Properties>

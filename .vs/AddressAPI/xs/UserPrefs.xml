@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{65D4172D-C944-4206-9999-C358FD0E0E8F}|MoviesAPI">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AddressAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/AllAddresses.cshtml.cs">
+    <Files>
+      <File FileName="Program.cs" Line="103" Column="1" />
+      <File FileName="appsettings.json" Line="17" Column="34" />
+      <File FileName="Service/UserService.cs" Line="45" Column="69" />
+      <File FileName="Service/RecipeService.cs" Line="9" Column="1" />
+      <File FileName="Pages/Index.cshtml" Line="2" Column="1" />
+      <File FileName="Data/DatabaseSettings.cs" Line="16" Column="1" />
+      <File FileName="Data/User.cs" Line="4" Column="22" />
+      <File FileName="Pages/Login.cshtml" Line="65" Column="30" />
+      <File FileName="Pages/Login.cshtml.cs" Line="30" Column="14" />
+      <File FileName="Pages/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Pages/_ViewImports.cshtml" Line="5" Column="1" />
+      <File FileName="Pages/Logout.cshtml" Line="7" Column="1" />
+      <File FileName="Pages/Register.cshtml" />
+      <File FileName="Pages/Shared/_Layout.cshtml" Line="50" Column="27" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="Data/Address.cs" Line="16" Column="1" />
+      <File FileName="Pages/Index.cshtml.cs" Line="9" Column="2" />
+      <File FileName="Pages/AllAddresses.cshtml" Line="2" Column="8" />
+      <File FileName="Pages/AllAddresses.cshtml.cs" Line="33" Column="1" />
+      <File FileName="Pages/Error.cshtml" Line="6" Column="1" />
+      <File FileName="Pages/Error.cshtml.cs" Line="5" Column="1" />
+      <File FileName="Pages/AllAddress.cshtml" Line="1" Column="1" />
+      <File FileName="Pages/GetAllAddress.cshtml" Line="2" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+</Properties>

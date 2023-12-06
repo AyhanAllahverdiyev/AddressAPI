@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hQsIw4DJydFAy0lrWrtgwRAyi0Qz13i8bArvfbAAVZw=",
+  "Source": "cookbook_backend",
+  "BasePath": "_content/cookbook_backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

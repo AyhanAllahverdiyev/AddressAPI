@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/cookbook_backend.props" />
+</Project>
