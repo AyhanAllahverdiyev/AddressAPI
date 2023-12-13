@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wLG1pMG8Xy2hNU4RBV9N4cL8qnidalZzfRVijmQpi6BTD8jvhGf7pJl00CB4BSY/OOpNHcF88RAm9A8cW6gKLg==",
+  "dgSpecHash": "yC3iYyala2RsSJAXH/FIqIwa2KFC2zy+nNNlAANbfPbu2QEES172Q/s2GxuZgyJBELd0ZQZFY4BH0ZWzsEDdPg==",
   "success": true,
-  "projectFilePath": "/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/AddressAPI.csproj",
+  "projectFilePath": "/Applications/development/AddressBOOK LATEST/AddressAPI/AddressAPI/AddressAPI.csproj",
   "expectedPackageFiles": [
     "/Users/aykhanallahverdizade/.nuget/packages/awssdk.core/3.7.100.14/awssdk.core.3.7.100.14.nupkg.sha512",
     "/Users/aykhanallahverdizade/.nuget/packages/awssdk.securitytoken/3.7.100.14/awssdk.securitytoken.3.7.100.14.nupkg.sha512",

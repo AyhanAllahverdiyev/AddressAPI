@@ -9,49 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AddressAPI
 build_property.RootNamespace = AddressAPI
-build_property.ProjectDir = /Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/
+build_property.ProjectDir = /Applications/development/AddressBOOK LATEST/AddressAPI/AddressAPI/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend
+build_property.MSBuildProjectDirectory = /Applications/development/AddressBOOK LATEST/AddressAPI/AddressAPI
 build_property._RazorSourceGeneratorDebug = 
 
-[/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/Pages/Addresses.cshtml]
+[/Applications/development/AddressBOOK LATEST/AddressAPI/AddressAPI/Pages/Addresses.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRkcmVzc2VzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/Pages/Error.cshtml]
+[/Applications/development/AddressBOOK LATEST/AddressAPI/AddressAPI/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/Pages/Index.cshtml]
+[/Applications/development/AddressBOOK LATEST/AddressAPI/AddressAPI/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/Pages/Login.cshtml]
+[/Applications/development/AddressBOOK LATEST/AddressAPI/AddressAPI/Pages/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/Pages/Logout.cshtml]
+[/Applications/development/AddressBOOK LATEST/AddressAPI/AddressAPI/Pages/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9nb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/Pages/Register.cshtml]
+[/Applications/development/AddressBOOK LATEST/AddressAPI/AddressAPI/Pages/newAddress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvbmV3QWRkcmVzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Applications/development/AddressBOOK LATEST/AddressAPI/AddressAPI/Pages/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/Applications/development/AddressBOOK LATEST/AddressAPI/AddressAPI/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/Pages/_ViewImports.cshtml]
+[/Applications/development/AddressBOOK LATEST/AddressAPI/AddressAPI/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/Pages/_ViewStart.cshtml]
+[/Applications/development/AddressBOOK LATEST/AddressAPI/AddressAPI/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/Pages/Shared/_Layout.cshtml]
+[/Applications/development/AddressBOOK LATEST/AddressAPI/AddressAPI/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8h99l5f45k

@@ -1362,11 +1362,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/AddressAPI.csproj",
+      "projectUniqueName": "/Applications/development/AddressBOOK LATEST/AddressAPI/AddressAPI/AddressAPI.csproj",
       "projectName": "AddressAPI",
-      "projectPath": "/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/AddressAPI.csproj",
+      "projectPath": "/Applications/development/AddressBOOK LATEST/AddressAPI/AddressAPI/AddressAPI.csproj",
       "packagesPath": "/Users/aykhanallahverdizade/.nuget/packages/",
-      "outputPath": "/Applications/development/AddressBOOK LATEST/cookbook_backend-main/cookbook_backend/obj/",
+      "outputPath": "/Applications/development/AddressBOOK LATEST/AddressAPI/AddressAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aykhanallahverdizade/.nuget/NuGet/NuGet.Config"

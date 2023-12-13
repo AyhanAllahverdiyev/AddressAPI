@@ -48,6 +48,9 @@
                     <td>@string.Join(", ", address.Residents)</td>
                 </tr>
             }
+            <div>
+                <a asp-page="/NewAddress" class="btn btn-primary">Create New Address</a>
+            </div>
         </tbody>
     </table>
 </div>
@@ -80,4 +83,5 @@
                 tableElement.querySelector('tbody').append(...dataRows);
             });
         });
+         
     });</script>

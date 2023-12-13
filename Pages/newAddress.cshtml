@@ -1,0 +1,111 @@
+﻿@page
+@model AddressAPI.Pages.Shared.AddAddressModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background-color: #2d2d2d;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .login-box {
+            background-color: #ffffff;
+            color: #333333;
+            width: 320px;
+            padding: 40px;
+            border-radius: 10px;
+            text-align: center;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+        }
+
+            .login-box h1 {
+                margin-bottom: 30px;
+                color: #555555;
+            }
+
+            .login-box label,
+            .login-box input {
+                display: block;
+                width: calc(100% - 40px);
+                margin: 10px auto;
+            }
+
+            .login-box input {
+                padding: 12px;
+                border: 1px solid #cccccc;
+                border-radius: 5px;
+                font-size: 16px;
+            }
+
+            .login-box button {
+                padding: 12px;
+                background-color: #007bff;
+                color: white;
+                border: none;
+                cursor: pointer;
+                border-radius: 5px;
+                width: calc(100% - 40px);
+                margin-top: 20px;
+                font-size: 16px;
+                transition: background-color 0.3s ease;
+            }
+
+                .login-box button:hover {
+                    background-color: #0056b3;
+                }
+
+        .error {
+            color: #ff3333;
+            margin-top: 8px;
+            text-align: left;
+        }
+
+        .signup-link {
+            margin-top: 20px;
+            text-align: center;
+            color: #007bff;
+            text-decoration: none;
+            display: block;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-box">
+        <h1>NEW ADDRESS!</h1>
+        <form method="post">
+            <label for="Id">Id</label>
+            <input type="text" id="Id" name="Id" required>
+
+            <label for="Name">Name</label>
+            <input type="text" id="Name" name="Name" required>
+
+
+            <label for="Year">Year</label>
+            <input type="text" id="Year" name="Year" required>
+
+            <label for="Location">Location</label>
+            <input type="text" id="Location" name="Location" required>
+
+            <label for="Residents">Residents</label>
+            <input type="text" id="Residents" name="Residents" required>
+            @if (!ModelState.IsValid)
+            {
+                <div class="error">Please check your credentials</div>
+            }
+            <button type="submit">Save</button>
+        </form>
+   
+    </div>
+</body>
+</html>
