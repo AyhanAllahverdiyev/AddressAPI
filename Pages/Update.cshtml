@@ -1,8 +1,10 @@
 ﻿@page
-@model AddressAPI.Pages.Shared.AddAddressModel
+@model AddressAPI.Pages.Shared.UpdateModel
 @{
-    ViewData["Title"] = "New Address";
+    ViewData["Title"] = "Update Address";
+
 }
+
 
 <!DOCTYPE html>
 <html>
@@ -13,7 +15,7 @@
 
     <style>
         body {
-            background-color: #f4f4f4; 
+            background-color: #f4f4f4;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             display: flex;
             justify-content: center;
@@ -35,7 +37,7 @@
 
             .login-box h1 {
                 margin-bottom: 30px;
-                color: #ff6b6b;  
+                color: #ff6b6b;
             }
 
             .login-box label,
@@ -47,15 +49,15 @@
 
             .login-box input {
                 padding: 12px;
-                border: 1px solid #8c8c8c;  
+                border: 1px solid #8c8c8c;
                 border-radius: 5px;
                 font-size: 16px;
-                background-color: #f9f9f9;  
+                background-color: #f9f9f9;
             }
 
             .login-box button {
                 padding: 12px;
-                background-color: #007bff;  
+                background-color: #007bff;
                 color: white;
                 border: none;
                 cursor: pointer;
@@ -67,7 +69,7 @@
             }
 
                 .login-box button:hover {
-                    background-color: #0056b3;  
+                    background-color: #0056b3;
                 }
 
         .error {
@@ -79,7 +81,7 @@
         .signup-link {
             margin-top: 20px;
             text-align: center;
-            color: #007bff; 
+            color: #007bff;
             text-decoration: none;
             display: block;
             font-size: 14px;
@@ -88,28 +90,28 @@
 </head>
 <body>
     <div class="login-box">
-        <h1>Create Address</h1>
+        <h1>Update Address</h1>
         <form method="post">
             <label for="Id">Id</label>
-            <input type="text" id="Id" name="Id" required>
+            <input type="text" id="Id" name="Id" readonly value="@Model.AddressToUpdate.Id" required>
 
             <label for="Name">Name</label>
-            <input type="text" id="Name" name="Name" required>
+            <input type="text" id="Name" name="Name" value="@Model.AddressToUpdate.Name" required>
 
             <label for="Year">Year</label>
-            <input type="text" id="Year" name="Year" required>
+            <input type="text" id="Year" name="Year" value="@Model.AddressToUpdate.Year" required>
 
             <label for="Location">Location</label>
-            <input type="text" id="Location" name="Location" required>
+            <input type="text" id="Location" name="Location" value="@Model.AddressToUpdate.Location" required>
 
             <label for="Residents">Residents</label>
-            <input type="text" id="Residents" name="Residents" required>
+            <input type="text" id="Residents" name="Residents" value="@string.Join(", ", Model.AddressToUpdate.Residents)" required>
 
             @if (!ModelState.IsValid)
             {
                 <div class="error">Please check your credentials</div>
             }
-            <button type="submit">Save</button>
+            <button type="submit">Update</button>
         </form>
     </div>
 

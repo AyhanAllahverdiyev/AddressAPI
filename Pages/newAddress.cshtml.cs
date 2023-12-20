@@ -28,7 +28,7 @@ namespace AddressAPI.Pages.Shared
         {
             if (!ModelState.IsValid)
             {
-                // Handle validation errors
+                // errors
                 return Page();
             }
 
@@ -42,7 +42,7 @@ namespace AddressAPI.Pages.Shared
 
             await addressesService.Create(newAddress);
 
-            return RedirectToPage("/Addresses"); // Redirect to the main page or wherever appropriate
+            return RedirectToPage("/Addresses"); // Redirect 
         }
     }
 }
