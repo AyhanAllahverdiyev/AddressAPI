@@ -14,8 +14,8 @@
      <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
 
     <style>
-         body {
-            background-color: #f4f4f4; 
+        body {
+            background-color: darkgrey;
         }
 
         h2 {
@@ -54,6 +54,7 @@
             background-color: #007bff;
             border-color: #007bff;
             color: #fff;
+            font-size: medium;
         }
 
         .btn-danger {
@@ -89,7 +90,13 @@
                         <th>Residents</th>
                         <th>Delete</th>
                         <th>Update</th>
-                        <th></th>
+                        <th>
+                            <div style="text-align: center;">
+                                <a asp-page="/NewAddress" class="btn btn-primary">
+                                    <i class="fas fa-plus"></i>
+                                </a>
+                            </div>
+                        </th>
                     </tr>
                 </thead>
                 <tbody>
@@ -130,11 +137,7 @@
             </table>
         </div>
 
-        <div style="text-align: center;">
-            <a asp-page="/NewAddress" class="btn btn-primary">
-                <i class="fas fa-plus"></i> Create New Address
-            </a>
-        </div>
+     
     </div>
 
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
