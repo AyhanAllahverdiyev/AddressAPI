@@ -1,25 +1,20 @@
-﻿<Properties StartupConfiguration="{65D4172D-C944-4206-9999-C358FD0E0E8F}|MoviesAPI" GitUserInfo="UsingMD">
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{65D4172D-C944-4206-9999-C358FD0E0E8F}|MoviesAPI">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.AddressAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Addresses.cshtml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Update.cshtml">
     <Files>
       <File FileName="Program.cs" />
       <File FileName="appsettings.json" />
-      <File FileName="Service/UserService.cs" Line="1" Column="1" />
+      <File FileName="Service/UserService.cs" />
       <File FileName="Pages/Index.cshtml" />
       <File FileName="Data/DatabaseSettings.cs" />
       <File FileName="Data/User.cs" />
       <File FileName="Pages/Login.cshtml" />
       <File FileName="Data/Address.cs" />
-      <File FileName="Pages/Error.cshtml" Line="1" Column="1" />
+      <File FileName="Pages/Error.cshtml" />
       <File FileName="Pages/Error.cshtml.cs" />
-      <File FileName="Pages/newAddress.cshtml" Line="90" Column="17" />
+      <File FileName="Pages/newAddress.cshtml" Line="18" Column="10" />
       <File FileName="Pages/newAddress.cshtml.cs" Line="10" Column="1" />
-      <File FileName="Service/AddressService.cs" Line="32" Column="6" />
+      <File FileName="Service/AddressService.cs" />
       <File FileName="AddressAPI.csproj" />
       <File FileName="Models/AddressesViewModel.cs" />
       <File FileName="Pages/Login.cshtml.cs" />
@@ -27,22 +22,22 @@
       <File FileName="Pages/Logout.cshtml" />
       <File FileName="Pages/Register.cshtml" />
       <File FileName="Pages/_ViewStart.cshtml" />
-      <File FileName="Pages/Addresses.cshtml" Line="66" Column="32" />
+      <File FileName="Pages/Addresses.cshtml" Line="18" Column="39" />
       <File FileName="Pages/_ViewImports.cshtml" />
       <File FileName="README.md" />
-      <File FileName="Pages/Addresses.cshtml.cs" Line="33" Column="6" />
-      <File FileName="Pages/Update.cshtml" Line="2" Column="43" />
+      <File FileName="Pages/Addresses.cshtml.cs" Line="65" Column="6" />
+      <File FileName="Pages/Update.cshtml" Line="20" Column="1" />
       <File FileName="Pages/Update.cshtml.cs" Line="42" Column="2" />
+      <File FileName="Pages/Shared/_Layout.cshtml" Line="24" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AddressAPI">
             <Node name="AddressAPI">
-              <Node name="Pages">
-                <Node name="Addresses.cshtml" expanded="True">
-                  <Node name="Addresses.cshtml.cs" selected="True" />
-                </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="Addresses.cshtml" expanded="True" />
                 <Node name="newAddress.cshtml" expanded="True" />
                 <Node name="Update.cshtml" expanded="True" />
               </Node>
@@ -53,5 +48,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AddressAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
